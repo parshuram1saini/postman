@@ -1,0 +1,28 @@
+{
+  "blog": [
+    {
+      "title": "JAVASCRIPT",
+      "body": "JavaScript is the world most popular lightweight interpreted compiled programming language It is also known as scripting language for web pages. It is well-known for  the development of web pages",
+      "name": "Nishant Singh ",
+      "id": 1
+    },
+    {
+      "title": "Algorithm",
+      "body": "The word Algorithm means a process or set of rules to be followed in calculations  or other problem-solving operations. Therefore Algorithm refers to a set of rules",
+      "name": "Monu Kumar",
+      "id": 3
+    },
+    {
+      "title": "Computer Network",
+      "body": "An interconnection of multiple devices, also known as hosts, that are connected using multiple paths for the purpose of sending receiving data media.",
+      "name": "Sonu Kr",
+      "id": 4
+    },
+    {
+      "title": " manali vaccation trip",
+      "body": "Enjoy #RomanticBliss with honeymoon packages starting @ ₹9,999 & get perks worth ₹10,000. Book your honeymoon by paying JUST 5% now & get special inclusions like romantic dinners! Xlusiv Honeymoon Activity.",
+      "name": "parshuram",
+      "id": 8
+    }
+  ]
+}
